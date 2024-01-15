@@ -4,6 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Neucha&family=Playfair+Display:wght@700&family=Poppins:wght@300;400&family=Roboto&display=swap');
 
+@import 'ngx-toastr/toastr';
 :root{
     --primary-color: #026467;
     --secondary-color: #e5f5ea;
